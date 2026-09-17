@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dietmar Fernández Orth
+# Dietmar Fernández
 
 ### Computational Biology · Bioinformatics · Genomics · HPC
 
