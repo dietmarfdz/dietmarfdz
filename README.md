@@ -1,6 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Dietmar Fernández Orth - Computational Biology, Bioinformatics, Genomics and HPC" width="100%">
+</p>
 
-# Dietmar Fernández
 
 ### Computational Biology · Bioinformatics · Genomics · HPC
 
