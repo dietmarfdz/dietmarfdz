@@ -3,10 +3,8 @@
 </p>
 
 
-### Computational Biology · Bioinformatics · Genomics · HPC
-
-Senior Bioinformatics Postdoctoral Researcher at **CNAG**  
-Lecturer in **Clinical Biomedical Laboratory**
+**Senior Bioinformatics Postdoctoral Researcher at CNAG**  
+**Lecturer in Clinical Biomedical Laboratory**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1237--3192-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1237-3192)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dietmarfdz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dietmarfdz)
