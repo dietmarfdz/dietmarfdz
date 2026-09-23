@@ -129,30 +129,6 @@ PMID: [35438138](https://pubmed.ncbi.nlm.nih.gov/35438138/)
 
 ---
 
-## Selected research projects
-
-- **HEREDITARY** — federated genomic analysis and data harmonization for neurodegenerative disease research.
-- **CINECA** — federated infrastructures for secure genomic and clinical data sharing.
-- **iASIS** — integration of biomedical data and AI approaches for precision medicine.
-- **HELIX** — multi-omics analysis of environmental exposures and human health.
-- **URDCat** — genomic analysis for rare disease research.
-- **COMBACTE** — transcriptomics and microbial genomics in infectious disease research.
-
----
-
-## Background
-
-- **PhD in Bioinformatics (Cum Laude)** 
-- **M.Sc. in Bioinformatics and Computational Biology** 
-- **Expert Degree in Advanced Methods of Statistics**
-- **B.Sc. in Biology**
-
-Previous roles include:
-
-**Head of Bioinformatics & Molecular Biology** · **Postdoctoral Researcher at EGA** · **Bioinformatics Researcher at ISGlobal** · **Bioinformatics Director** · **Bioinformatician**
-
----
-
 <div align="center">
 
 ### Connect
